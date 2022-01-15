@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or www.samiatourriz.com
+[GitHub](http://github.com)
